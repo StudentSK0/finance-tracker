@@ -3,7 +3,7 @@
 
 ## Запуск
 
-Сначала склонируйте проект
+Cклонируйте проект
 
 ```bash
 git clone https://github.com/StudentSK0/FinanceTracker
